@@ -1,6 +1,6 @@
 
-- We believe that the nim language could be the most productive development solution for IT infrastructure projects.
-- The language produces C code & is very easy to develop in, our first attempts look very promising.
+We believe that the nim language could be the most productive development solution for IT infrastructure projects.
+The language produces C code & is very easy to develop in, our first attempts look very promising.
 
 # FAQ
 
@@ -32,7 +32,7 @@
     - still changing all the time, hard to follow, often things still break
 
 
-# how do we work
+# how do we work together
 
 - There is a group of developers working together on these projects you can find them on telegram group, [click here to join](https://t.me/joinchat/AAAAAAlYWlKyTifyZBfEVg)
 - ALL work is done directly on the repo's using standard github practices
@@ -40,6 +40,10 @@
 - GreenITGlobe is willing to sponsor a certain amount of work, if you are a professional skilled developer and you would like to contribute on a very frequent basis on this project then please contact  us on info@greenitglobe.com
     - we pay through BitCoins & Upwork
 - We want to endorse an open style of working, you need to be comfortable working with peers on telegram & github, we will do weekly zoom meetings (like skype but more efficient) to discuss progress & issues, telegram will be used to announce.
+- look at our [milestones](https://github.com/nimscale/home/issues)
+
+Hope to see you soon on our telegram group.
+
 
 
 
