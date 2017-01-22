@@ -41,6 +41,7 @@ The language produces C code & is very easy to develop in, our first attempts lo
     - we pay through BitCoins & Upwork
 - We want to endorse an open style of working, you need to be comfortable working with peers on telegram & github, we will do weekly zoom meetings (like skype but more efficient) to discuss progress & issues, telegram will be used to announce.
 - look at our [milestones](https://github.com/nimscale/home/issues)
+    - the real work is done on repos in the nimscale account, look for them and the issues at that level
 
 Hope to see you soon on our telegram group.
 
