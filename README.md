@@ -45,6 +45,7 @@ The language produces C code & is very easy to develop in, our first attempts lo
 
 Hope to see you soon on our telegram group.
 
-
+Waffle.io task board: 
+[![Stories in Ready](https://badge.waffle.io/nimscale/home.png?label=ready&title=Ready)](http://waffle.io/nimscale/home)
 
 
